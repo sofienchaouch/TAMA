@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>net.eniso.my-app</groupId>
+    <artifactId>my-app</artifactId>
+    <name>net.eniso.my-app</name>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <!--<module>plugins/theme-back</module>-->
+        <!--<module>plugins/theme-front</module>-->
+        <module>app/my-app-app-service</module>
+        <module>app/my-app-app-web</module>
+    <module>plugins/main</module>
+  </modules>
+</project>

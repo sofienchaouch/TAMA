@@ -1,0 +1,14 @@
+short-name = my-app
+long-name = My App
+id = my-app
+version = 1.0.0
+build-date = 2019-10-26
+build-number = 1
+author = sofiene
+author-url = http://sofiene-company.com
+author-affiliation = sofiene company
+default-public-theme = crew
+default-private-theme = adminlte
+config.company=My Company
+config.country=Tunisia
+config.industry=Services
